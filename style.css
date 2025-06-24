@@ -32,3 +32,7 @@ body {
     justify-content: center;
     align-items: center;
   }
+  .lista{
+    list-style-type: none;
+    padding: 0;
+  }
